@@ -1,0 +1,10 @@
+.navbar-brand {
+    font-family: "Permanent Marker";
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+img {
+    left: -200px;
+}
